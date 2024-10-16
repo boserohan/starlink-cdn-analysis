@@ -1,5 +1,5 @@
 export DATA_SET_FOLDER_NAME="dataset"
 export DATA_PATH="$(pwd)/$DATA_SET_FOLDER_NAME"
-export RSYNC_PASSWORD="m1756495"
+export RSYNC_PASSWORD="TODO: get from mediaTUM"
 mkdir -p "$(pwd)/$DATA_SET_FOLDER_NAME"
 rsync -Pr rsync://m1756495@dataserv.ub.tum.de/m1756495/ "$DATA_PATH"
