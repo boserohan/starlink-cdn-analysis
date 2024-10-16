@@ -1,6 +1,8 @@
 Cartopy==0.22.0
-geopandas==0.14.0
+geopandas==0.14.4
 jsonlines==4.0.0
 matplotlib==3.7.2
 numpy==1.25.2
 pandas==2.0.3
+jupyter==1.0.0
+mapclassify==2.6.1
