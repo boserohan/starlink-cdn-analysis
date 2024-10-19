@@ -19,7 +19,7 @@ Content Delivery Networks (CDNs) have been pivotal in the dramatic evolution of 
 
 The data necessary for the plots needs to be downloaded before starting and is available at [mediaTUM](https://mediatum.ub.tum.de/1756495) with instructions on how to set it up. 
 
-## Pre-requisites
+## :hammer_and_wrench: Pre-requisites
 The associated code has been developed and tested with python version 3.10. This might work with other versions as well, but it will be a good idea to install python3.10 prior to running the below commands, as some of the packages and their dependencies only work properly with this version.
 
 ## 📊 Reproducibility Instructions
